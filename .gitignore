@@ -1,0 +1,21 @@
+# Build artifacts
+.build.tmp.*
+*.tmp
+
+# Temporary files & logs
+*.log
+*.err
+*.fifo
+
+# Test artifacts
+iso_cache/
+test_isos/
+tmp/
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+.idea/
+.vscode/
