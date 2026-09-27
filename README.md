@@ -1,9 +1,14 @@
-# Rufus-Linux 🐧
+<div align="center">
+  <img src="https://raw.githubusercontent.com/friendix12/rufus-linux/main/assets/rufus-linux-banner.png" alt="Rufus-Linux Banner" width="100%" />
 
-[![Bash](https://img.shields.io/badge/Language-Bash%20%7C%20Python3%20GTK-blue.svg)](https://www.gnu.org/software/bash/)
-[![Platform](https://img.shields.io/badge/Platform-Linux-orange.svg)](https://kernel.org)
-[![Tests](https://img.shields.io/badge/Unit%20Tests-107%20Passed-brightgreen.svg)](test.sh)
-[![License](https://img.shields.io/badge/License-GPL%20v3-green.svg)](LICENSE)
+  # Rufus-Linux 🐧
+  ### Native, High-Performance Bootable USB Creator for Linux
+
+  [![Bash](https://img.shields.io/badge/Language-Bash%20%7C%20Python3%20GTK-blue.svg)](https://www.gnu.org/software/bash/)
+  [![Platform](https://img.shields.io/badge/Platform-Linux-orange.svg)](https://kernel.org)
+  [![Tests](https://img.shields.io/badge/Unit%20Tests-107%20Passed-brightgreen.svg)](test.sh)
+  [![License](https://img.shields.io/badge/License-GPL%20v3-green.svg)](LICENSE)
+</div>
 
 > **A native, feature-complete bootable USB creator for Linux — inspired by Rufus on Windows.**
 >
